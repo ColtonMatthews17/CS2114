@@ -1,1 +1,28 @@
-temp
+Office Hours: Monday & Wednesday, 12:30 - 2:30pm
+Codeworkout.org is good practice
+
+coupling refers to the simplicity of class relations
+  -high coupling is where every class is linked to almost every other class
+  
+high cohesion is where you put too much ode into one class where it should be split into many classes
+
+Inheretence is a way for a rogrammer to guarentee a class has certain methods
+  many classes can implement the same interface
+  a class can implement more than one interface.
+  
+Interfaces can be implemented by many different classes
+  no code goes into the interface, is just good for defining what methods must be included inside a class
+  good for polymorphism and type casting
+  
+interface vs abstract class
+
+you can implement many interfaces, but only one class
+use an abstact clas if you want to provide a specific method defiitio, or 
+declare a private data field that your data will have in common
+
+go through lecture questions to study for quizzes
+
+equality is .equals
+identical is ==
+
+YELLOW STICKERS ON SLIDES SIGNIFY IMPORTANCE, go over those slides if oure having trouble in labs.

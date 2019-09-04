@@ -1,0 +1,67 @@
+LAB ATENDANCE IS REQUIRED- GRADED 0 IF NO-SHOW
+Pre-Lab before Lab, remember post-labs due on saturday
+
+In an is-a or inheritance relationship, one class is asubclass of the other class (or implements an interface)
+  Car is a Vehicle
+
+In a has-a or aggregation relationship, one class has the other class as an attribute
+  Often denotes parts, a car has tires
+
+Most of the time the difference between the two is
+obvious, other times it is harder to tell apart
+  Car is-a Vehicle
+  Car has tires, doors, engines, etc.
+
+
+
+MY TAKE ON IT: IS-A IS A PARENT, CHILD RELATIONSHIP
+               HAS-A IS JUST ONE CLASS HAVING ANOTHERS FIELD
+
+
+Overriding is when a subclass has the same method name and parameters, so when that method 
+  is called, it uses the subclass' version
+
+A method which has the same name, return type, and parameters as a method 
+  in a superclass will override the superclass’ version of the method
+
+Methods with the same name but different parameters are overloaded
+
+Polymorphism is when the type of the instance is determined at runtime
+We have an example in eclipse "ExPolynmorphismComputer"
+
+
+if notebook is a subclass of computer
+Computer comp = new Computer();
+OR
+Computer comp = new Notebook();
+
+We need to write a .equals() and a .toString() for all of our classes.
+
+
+Object aThing = new Integer(25);
+
+aThing.intValue(); THIS WILL NOT WORK
+
+• Object has a toString() method, but it does not
+have an intValue() method (even though Integer
+does, the reference is considered of type Object)
+
+Integer aNum = aThing; ALSO DOESNT WORK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

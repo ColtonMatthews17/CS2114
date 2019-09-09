@@ -1,0 +1,64 @@
+final keyword
+
+A final variable:
+  -if its a primitive type, the value cannot be changed
+  -if its a reference type, the data within the object can be changed, but which object the variable references cannot change
+
+A final method:
+  -the method cannot be overriden
+A final class:
+  -the class cannot be subclassed
+
+The ADT Bag:
+
+Definition:
+  -A bag is a finite connection of objects in no particular order
+  Can contain duplicated
+
+Possible behaviors:
+  -Get number of items
+  -Check for empty
+  -Add, remove objects
+  -Iterate over the objects in the bag
+  -Check to see if an object is in the bag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

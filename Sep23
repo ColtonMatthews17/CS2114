@@ -20,16 +20,22 @@ Java Review
 – Arrays
 New Material
 – Exceptions
+  -Understand what a NullPointer is and when it is thrown.
 – Generics
+  -Know the concept and why we use them.
+  -ALso let us write one arraybag class for every type
 – Linked Nodes
 – Bags
 – Bag Implementations
+
+Understand public, private, and protected
 
 Review in Mondays Slides PDF (Downloaded in School Files)
 
 Not testing on GraphWindow, Javadocs, and Scanners
 
-
+For removing a node with a specific data, this class swaps it with the first node's data
+  then removes first node. ASK ABOUT OTHER REMOVE
 
 
 

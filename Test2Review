@@ -1,0 +1,44 @@
+Layout
+  -17 5/6pt short answer / multiple choice
+  -1 18pt hand written question involving linked nodes
+    -Will be going for concept not compilation
+    -Node class with be given
+
+Topics
+  -The material is inherently cumulaive
+  -The test intends to cover material from Chapters 4-16
+  -Study and Practice
+    -Course Notes
+    -Practice Clicker Questions
+    -Reading Quiz Questions
+    -Weekly Practice Questions
+    -OpenDSA questions, especially for recursion and pointers
+    -Lab and project implementations
+
+Topics and Key Points
+  -Efficiency (notes, openDSA, recurring theme)
+  -Stacks
+  -Recursion(notes, openDSA)
+  -Sorting (insertion and selection, compareTo)
+  -Queues and Deques
+  -Design (Tail reference, doubly linked, sentinel notes)
+  -Lists(Iterators, Comparators, SortedLists)
+  -Cybersecurity Basics (Overarching concepts)
+
+Not on the Test
+  -More exceptopms
+
+THIS IS ALL ON POWERPOINT
+
+
+Know difference between array length, size, and queue capacity with Circular Array Queue
+
+
+
+
+
+
+
+
+
+
